@@ -1,8 +1,8 @@
 import Header from "../Header";
-import mod from "../../resources/mod.jpeg";
-import sinter from "../../resources/sinter.png";
+// import mod from "../../resources/mod.jpeg";
+// import sinter from "../../resources/sinter.png";
 import PageWrapper from "../PageWrapper/PageWrapper";
-import finter from "../../resources/finter.png";
+// import finter from "../../resources/finter.png";
 const Experience = () => {
   return (
     <PageWrapper>

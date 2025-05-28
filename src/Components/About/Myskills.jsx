@@ -1,5 +1,5 @@
-import tailwind from "../../resources/tailwind.png";
-import nextjs from "../../resources/nextjs.png";
+// import tailwind from "../../resources/tailwind.png";
+// import nextjs from "../../resources/nextjs.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHtml5 } from "@fortawesome/free-brands-svg-icons";
 import { faCss3 } from "@fortawesome/free-brands-svg-icons";
@@ -13,7 +13,7 @@ import cpl from "../../resources/cpl.png";
 import jsl from "../../resources/jsl.png";
 import git from "../../resources/git.png";
 import gith from "../../resources/gith.png";
-import fgm from "../../resources/fgm.png";
+// import fgm from "../../resources/fgm.png";
 import vsc from "../../resources/vsc.png";
 import elastic from "../../resources/elastic.png";
 import angular from "../../resources/angular.png";

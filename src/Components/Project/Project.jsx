@@ -1,5 +1,5 @@
 import Header from "../Header";
-import tsp from "../../resources/tsp.png";
+// import tsp from "../../resources/tsp.png";
 import hercare from "../../resources/hercare.png";
 import PageWrapper from "../PageWrapper/PageWrapper";
 

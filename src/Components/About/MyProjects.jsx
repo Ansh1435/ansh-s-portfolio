@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import tsp from "../../resources/tsp.png";
-import cb from "../../resources/cb.png";
+// import tsp from "../../resources/tsp.png";
+// import cb from "../../resources/cb.png";
 const MyProjects = () => {
   return (
     <>

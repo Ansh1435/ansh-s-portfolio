@@ -1,6 +1,6 @@
-import mod from "../../resources/mod.jpeg";
-import sinter from "../../resources/sinter.png";
-import finter from "../../resources/finter.png";
+// import mod from "../../resources/mod.jpeg";
+// import sinter from "../../resources/sinter.png";
+// import finter from "../../resources/finter.png";
 import { Link } from "react-router-dom";
 const MyExp = () => {
   return (
