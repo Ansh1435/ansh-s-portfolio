@@ -29,7 +29,7 @@ const MyEducation = () => {
                 </td>
                 <td className="border-2 border-[#64ccc5] p-4">2021-2025</td>
                 <td className="border-2 border-[#64ccc5] p-4">
-                  8.7 (7th sem)
+                  8.74
                 </td>
               </tr>
               <tr className="border-b-2 border-[#64ccc5]">
@@ -75,7 +75,7 @@ const MyEducation = () => {
                 </td>
                 <td className="border-2 border-[#64ccc5] p-2">2021-2025</td>
                 <td className="border-2 border-[#64ccc5] p-2">
-                  8.7 (7th sem)
+                  8.74
                 </td>
               </tr>
               <tr className="border-b-2 border-[#64ccc5]">
@@ -121,7 +121,7 @@ const MyEducation = () => {
                 </td>
                 <td className="border-2 border-[#64ccc5] p-2">2021-2025</td>
                 <td className="border-2 border-[#64ccc5] p-2">
-                  8.7 (7th sem)
+                  8.74
                 </td>
               </tr>
               <tr className="border-b-2 border-[#64ccc5]">
@@ -167,7 +167,7 @@ const MyEducation = () => {
                 </td>
                 <td className="border-2 border-[#64ccc5] p-1">2021-2025</td>
                 <td className="border-2 border-[#64ccc5] p-1">
-                  8.7 (7th sem)
+                  8.74
                 </td>
               </tr>
               <tr className="border-b-2 border-[#64ccc5]">
